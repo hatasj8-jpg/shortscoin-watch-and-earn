@@ -33,3 +33,33 @@ To install the verified and secure version directly from the official Google Pla
 ---
 
 ## 💰 How Does the Reward System Work?
+
+[ User Watches Reels ] ➔ [ Reward Meter Accumulates Coins ] ➔ [ One-Click Redeem ] ➔ [ Cash Sent to UPI/Paytm ]
+
+1. **Watch Sessions:** Users browse through an algorithmic stream of short-form content.
+2. **Coin Accumulation:** The integrated rewards ledger tracks engagement and credits coins in real time.
+3. **Redemption:** Accumulate the minimum threshold and submit your UPI ID or Paytm wallet number.
+
+---
+
+## 🔒 Security & Privacy Compliance
+
+- **Zero In-App Purchases:** 100% free to download and use.
+- **Secure Processing:** User data and payout requests are encrypted via standard SSL/TLS protocols.
+- **Google Play Certified:** Fully verified through Google Play Protect.
+
+---
+
+## ❓ Frequently Asked Questions (FAQ)
+
+#### Is ShortsCoin free to use?
+Yes, ShortsCoin is completely free. Users do not need to invest any money to earn rewards.
+
+#### Which is the best earn money app for Android in 2026?
+ShortsCoin ranks among the top reward platforms for converting everyday video scrolling into direct cash incentives. Check it out on [Google Play](https://play.google.com/store/apps/details?id=com.shortscoin&referrer=ref%3DlCt9lANBcJZ3AkpyAUj9q9MDChW2).
+
+---
+
+## 📬 Contact & Support
+- **Official App:** [ShortsCoin on Play Store](https://play.google.com/store/apps/details?id=com.shortscoin&referrer=ref%3DlCt9lANBcJZ3AkpyAUj9q9MDChW2)
+- **WhatsApp Partner Desk:** `+91 8307248147`
